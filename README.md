@@ -8,3 +8,4 @@ This repository is built step by step in the tutorial.
 It now includes steps for GitHub.
 
 git@github.com:shinyora/git-hello.git
+https://github.com/shinyora/git-hello.git
