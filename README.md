@@ -9,3 +9,8 @@ It now includes steps for GitHub.
 
 git@github.com:shinyora/git-hello.git
 https://github.com/shinyora/git-hello.git
+# proxy env
+gh auth login
+https
+git-credential
+GH_TOKEN
